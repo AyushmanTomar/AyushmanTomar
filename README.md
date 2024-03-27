@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushmanTomar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Android Studio
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Start ups
 
 <!---
