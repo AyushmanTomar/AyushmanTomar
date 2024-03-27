@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AyushmanTomar
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and developoing.
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on Start ups
+- 💞️ I’m working on my startup.
+  
 
 <!---
 AyushmanTomar/AyushmanTomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
