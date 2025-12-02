@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AyushmanTomar
 - 👀 I’m interested in coding and developoing.
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m working with startups.
 
 ## My Portfolio: https://ayushman-tomar.netlify.app/
 
